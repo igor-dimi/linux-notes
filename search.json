@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Linux Notes",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "1.1 Linux Genaral",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#linux-genaral",
+    "href": "reading.html#linux-genaral",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "The Unix System. Bourne\nUNIX - First Contact. Nishinuma\nThe UNIX Programming Environment. Kernighan\nHow Linux Works and What Every Superuser Should Know. Ward\nMastering Modern Linux. Wang\nSmall, Sharp Software Tools. Brian Hogan\nData Science at the Command Line. Janssens\nThe Art of UNIX Programming. Raymond",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#programming-in-unix",
+    "href": "reading.html#programming-in-unix",
+    "title": "1  Reading List",
+    "section": "1.2 Programming in Unix",
+    "text": "1.2 Programming in Unix\n\nSoftware tools (in Pascal). Kernighan\n\nProgramming the UNIX System. Dunsmuir\nSystem Programmierung in UNIX, Teil I & II. Schreiner",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#tools",
+    "href": "reading.html#tools",
+    "title": "1  Reading List",
+    "section": "1.3 Tools",
+    "text": "1.3 Tools\n\n1.3.1 Sed & Awk\n\nThe Awk Programming Language. Kernighan\nSed & Awk. Dougherty & Robbins\n\n\n\n1.3.2 Make\n\nMake - A Program for Maintaining Computer Programs. Feldman\nManaging Projects with GNU Make. Mecklenburg\n\n\n\n1.3.3 Lex, Flex, Yac, Bison\n\nFlex & Bison. John Levine",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  }
+]
