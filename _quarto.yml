@@ -2,11 +2,12 @@ project:
   type: book
 
 book:
-  title: "Linux"
+  title: "Linux Notes"
   author: "Igor Dimitrov"
   date: "5/17/2024"
   chapters:
     - index.qmd
+    - reading.qmd
   page-navigation: true
 
 # bibliography: references.bib

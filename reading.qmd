@@ -1,0 +1,36 @@
+---
+title: "Reading List"
+---
+
+## Linux Genaral
+
+* The Unix System. Bourne
+* UNIX - First Contact. Nishinuma
+* The UNIX Programming Environment. Kernighan
+* How Linux Works and What Every Superuser Should Know. Ward
+* Mastering Modern Linux. Wang
+* Small, Sharp Software Tools. Brian Hogan
+* Data Science at the Command Line. Janssens
+* The Art of UNIX Programming. Raymond
+  
+## Programming in Unix 
+
+* Software tools (in Pascal). Kernighan  
+* Programming the UNIX System. Dunsmuir
+* System Programmierung in UNIX, Teil I & II. Schreiner
+
+## Tools 
+
+### Sed & Awk
+
+* The Awk Programming Language. Kernighan
+* Sed & Awk. Dougherty & Robbins
+
+### Make
+
+* Make - A Program for Maintaining Computer Programs. Feldman
+* Managing Projects with GNU Make. Mecklenburg
+
+### Lex, Flex, Yac, Bison
+
+* Flex & Bison. John Levine
